@@ -58,9 +58,9 @@
             <!-- CSS3 -->
             <div class="group text-center" data-aos="zoom-in" data-aos-delay="1200">
                 <div class="w-16 h-16 bg-cyan-500/20 rounded-xl flex items-center justify-center mx-auto mb-2 shadow-lg transition-all duration-300 group-hover:bg-cyan-500/30 group-hover:scale-110 group-hover:shadow-xl">
-                    <img src="{{ asset('icons/css3.svg') }}" alt="CSS3" class="w-10 h-10 filter brightness-0 invert transition-all group-hover:drop-shadow-lg">
+                    <img src="{{ asset('icons/css.svg') }}" alt="CSS" class="w-10 h-10 filter brightness-0 invert transition-all group-hover:drop-shadow-lg">
                 </div>
-                <p class="text-xs text-gray-300 font-medium">CSS3</p>
+                <p class="text-xs text-gray-300 font-medium">CSS</p>
             </div>
 
             <!-- Git -->
