@@ -117,6 +117,7 @@
                 }
             });
 
+            const data = await response.json();
           
             if (!response.ok) {
                 const text = await response.text();
@@ -124,7 +125,6 @@
                 throw new Error('Error del servidor');
             }
 
-            const data = await response.json();
 
             if (response.ok) {
                 form.reset();

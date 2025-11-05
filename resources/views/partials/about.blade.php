@@ -5,9 +5,10 @@
             Acerca de Mí
         </h2>
         <p class="text-gray-300 leading-relaxed mb-10 text-lg" data-aos="fade-up" data-aos-delay="400">
-            Soy un apasionado desarrollador con experiencia en la creación de aplicaciones web robustas y escalables.
-            Mi enfoque se centra en construir productos de alta calidad, desde la conceptualización hasta la implementación,
-            utilizando el ecosistema PHP. Me encanta resolver problemas complejos y aprender continuamente nuevas tecnologías.
+            Soy un desarrollador con experiencia en la creación de aplicaciones web robustas y escalables.
+            Me centro en construir productos de alta calidad, desde la planificación hasta la implementación,
+            utilizando el ecosistema PHP. Disfruto resolver problemas complejos y mantenerme actualizado
+            con las últimas tecnologías.
         </p>
 
         <h3 class="text-xl font-semibold mb-6" data-aos="fade-up" data-aos-delay="600">

@@ -5,7 +5,7 @@
                 Fullstack PHP Developer
             </h1>
             <p class="text-lg text-gray-400 mb-8 leading-relaxed max-w-xl">
-                Creando soluciones web modernas y eficientes desde el front-end hasta el back-end.
+                Creando soluciones web modernas, rápidas y escalables — del frontend al backend.
             </p>
             <div class="flex flex-col sm:flex-row gap-4">
                 <a href="#proyectos" class="bg-blue-600 text-white px-6 py-3 rounded-full font-medium hover:bg-blue-700 transition shadow-lg">
