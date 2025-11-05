@@ -9,7 +9,7 @@
 
         <div class="space-y-16 relative">
             <!-- Línea vertical central (opcional, más limpia con CSS) -->
-            <div class="absolute left-8 top-0 bottom-0 w-0.5 bg-gradient-to-b from-blue-500/50 to-gray-700/50 hidden md:block"></div>
+            <div class="absolute left-8 top-0 bottom-0 w-0.5 bg-linear-to-b from-blue-500/50 to-gray-700/50 hidden md:block"></div>
 
             <!-- Experiencia 1 -->
             <div class="flex gap-6 relative" 
@@ -20,7 +20,7 @@
                 <!-- Punto + línea -->
                 <div class="flex flex-col items-center z-10">
                     <div class="w-4 h-4 bg-blue-500 rounded-full ring-4 ring-blue-500/30 shadow-lg"></div>
-                    <div class="w-0.5 bg-gradient-to-b from-blue-500 to-transparent flex-1 mt-2"></div>
+                    <div class="w-0.5 bg-linear-to-b from-blue-500 to-transparent flex-1 mt-2"></div>
                 </div>
 
                 <!-- Contenido -->
