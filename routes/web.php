@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
 
 Route::get('/', function () {
     return view('pages.home', ['title' => 'Jeffer Doria - Fullstack Developer']);
@@ -13,3 +14,5 @@ Route::get('/contact', function () {
 Route::get('/projects', function () {
     return view('pages.projects', ['title' => 'Proyectos']);
 });
+
+Route::post('/contact', [ContactController::class, 'send'])->name('contact.send');
