@@ -10,7 +10,7 @@
 </head>
 <body class="bg-gray-900 text-gray-100" style="font-family: 'Inter', sans-serif;">
 
-    <!-- Header -->
+    
     <header class="fixed top-0 left-0 w-full bg-gray-900/90 backdrop-blur-md border-b border-gray-800 z-50">
         <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
             <a href="#" class="text-xl font-bold text-blue-500">Jeffer Doria</a>
@@ -27,7 +27,7 @@
         </div>
     </header>
 
-    <!-- Hero -->
+ 
     <section class="min-h-screen flex items-center px-6 pt-20">
         <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-16 items-center">
             <div>
@@ -56,20 +56,20 @@
         </div>
     </section>
 
-    <!-- Acerca de Mí -->
+    
     <section id="acerca" class="py-24 px-6">
         <div class="max-w-4xl mx-auto">
             <h2 class="text-3xl font-bold mb-8">Acerca de Mí</h2>
             <p class="text-gray-300 leading-relaxed mb-10 text-lg">
                 Soy un apasionado desarrollador con experiencia en la creación de aplicaciones web robustas y escalables...
             </p>
-            <!-- Tecnologías (como antes) -->
+            
         </div>
     </section>
 
-    <!-- Proyectos, Experiencia, Contacto (como antes) -->
+ 
 
-    <!-- 3D CSS -->
+    
     <style>
         .preserve-3d { transform-style: preserve-3d; }
         .rotate-y-12 { transform: rotateY(12deg); }
